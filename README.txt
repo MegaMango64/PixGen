@@ -1,7 +1,8 @@
 -----------------------------------------------
 
 Thank you for downloading 
-Pixel Generator v1.5.1
+Pixel Generator v1.5.2
+https://github.com/MegaMango64/PixGen
 
 Developed by Mr Mega Mango
 
@@ -65,6 +66,12 @@ Twitter @ Mr_Mega_Mango
 					- The colored circle next to this button and the circle at the upper right will show this state.
 					- The functionality of it being OFF(red) allows users to create complex shapes by chaining the modes
 					  available in this program together.
+				- Undo
+					- Clicking on this will undo a pixel calculation.
+					- When the text is dark it can be pressed. When light it cannot be pressed.
+				- Help
+					- Clicking on this will open a pop-up that has the mapping of the function keys and the website for 
+					  further updates.
 		- Plans
 			- Denoted by a mallet, left clicking on this symbol will display the recording mode and playback mode.
 			- In order to use Plans, Auto Clear must be disabled. The buttons will remain grayed out until changed.
@@ -120,7 +127,7 @@ Twitter @ Mr_Mega_Mango
 	- Double left click on blocks to highlight them. Press delete or backspace to delete these selected pixels.
 	- Single right click to create a single pixel.
 	- Hit the Submit button or Enter key to run the computation.
-	- Right click on the desktop icon and press "Open file location" in this location is this READ ME.
+	- Right click on the desktop icon and press "Open file location" in this location is this README.
 	- Press Ctrl+Z to undo a pixel calculation.
 	
 ***Function Keys***
