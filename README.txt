@@ -1,7 +1,7 @@
 -----------------------------------------------
 
 Thank you for downloading 
-Pixel Generator v1.5.2
+Pixel Generator v1.5.3
 https://github.com/MegaMango64/PixGen
 
 Developed by Mr Mega Mango
@@ -147,6 +147,10 @@ Twitter @ Mr_Mega_Mango
 	- Press the F6 key to activate my favorite hidden feature.  Once activated the user will be prompted to save a .png to the computer,
 	   in this image file will be the entirety of the pixels created in the program at the time of activation.  Pixel colors will be properly
 	   observed and recorded.
+	- Press the F7 key to run an area calculation inside a closed shape.  The resulting pixels that make up this area will
+	   be dispalyed at the bottom left.
+	- Press the F8 key to import a custom map/background.  First right click on a pixel with a known coordinate, next type the x coordinate,
+	   and then type the z coordinate. The image will then be moved to its proper location.  This feature is included when recording a plan.
 
 ***Limitations***
 	- Larger circles will take longer to compute and creating even bigger circles may even
