@@ -151,6 +151,8 @@ Twitter @ Mr_Mega_Mango
 	   be dispalyed at the bottom left.
 	- Press the F8 key to import a custom map/background.  First right click on a pixel with a known coordinate, next type the x coordinate,
 	   and then type the z coordinate. The image will then be moved to its proper location.  This feature is included when recording a plan.
+		- Pressing F8 when a custom background is present will toggle its visibility.
+		- Pressing Shift+F8 will delete the old background and ask for a new one.
 
 ***Limitations***
 	- Larger circles will take longer to compute and creating even bigger circles may even
